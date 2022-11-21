@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662113254 source:c:\users\brian\onedrive\documentos\brianday\faculdade\projeto c\teste\c\pedra_papel_e_tesoura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
